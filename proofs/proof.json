@@ -1,0 +1,10 @@
+{
+    "schema": "technocore-contribution-proof-v2",
+    "artifact_url": "https://github.com/JackoneFeez/jackone-agent-did",
+    "commit": "30b2027773bd814e49dad42ee75b99de06179c8b",
+    "did": "did:key:z6MkkKgQc8d1BYgxjB9Y4319VBawWgLWbydXea4ArfGv2UPG",
+    "issued_at": 1795533847,
+    "expires_at": 1803309847,
+    "nonce": "e54967385b476f8a8d27e4f685f929ed",
+    "signature": "-apvVW6scoMhcZ9-7ID9h7sOaOeqAZipynWn8HZSqSjVUpFm-EZh8UFNLrehYpyUqfbvkExzAoWUrZ71efOSAg"
+}
